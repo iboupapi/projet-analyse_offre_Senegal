@@ -28,20 +28,30 @@ def get_driver():
 
 BASE_URL = "https://www.emploidakar.com/offres-demploi-au-senegal/"
 
-def scrape_page(driver, page_number: int) -> list:
-    url = f"{BASE_URL}?page={page_number}"
-    print(f"\n📄 Scraping page {page_number} → {url}")
-
-    driver.get(url)
-
-    try:
-        WebDriverWait(driver, 15).until(
+def go_to_page(driver, page_number):
+    # Page 1 est déjà affichée, inutile de cliquer
+    if page_number == 1:
+        driver.get(BASE_URL)
+        WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, "ul.job_listings li.job_listing"))
         )
-        print("   ✅ Offres chargées")
-    except Exception:
-        print("   ⚠️ Timeout — aucune offre détectée")
-        return []
+        return
+
+    # Attendre que le lien de pagination soit présent et cliquer
+    WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.CSS_SELECTOR, f'a[data-page="{page_number}"]'))
+    )
+    driver.find_element(By.CSS_SELECTOR, f'a[data-page="{page_number}"]').click()
+
+    # Attendre que les offres soient chargées
+    WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.CSS_SELECTOR, "ul.job_listings li.job_listing"))
+    )
+
+def scrape_page(driver, page_number: int) -> list:
+    print(f"\n📄 Scraping page {page_number}")
+
+    go_to_page(driver, page_number)
 
     soup = BeautifulSoup(driver.page_source, "html.parser")
     cards = soup.select("ul.job_listings li.job_listing")
@@ -88,7 +98,6 @@ if __name__ == "__main__":
         print("⚠️ Aucune offre trouvée")
     else:
         CSV_PATH = "data/data_raw.csv"
-        # ✅ Création automatique du dossier data/ si nécessaire
         os.makedirs(os.path.dirname(CSV_PATH), exist_ok=True)
 
         df.to_csv(CSV_PATH, index=False, encoding="utf-8-sig")
