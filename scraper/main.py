@@ -48,6 +48,8 @@ SCRAPERS = [
     "scraper_optioncarriere.py",   # optioncarriere.sn  (~394 offres)
     "scraper_senego.py",           # annonces.senego.com(~384 offres)
     "scraper_senjob.py",           # senjob.com         (~231 offres)
+    "scraper_linkedin.py",         # linkedin.com       (~? offres)
+    "scraper_sociumjob.py",        # sociumjob.com      (~? offres)
     # "scraper_nouveausite.py",    ← décommenter pour ajouter un site
 ]
 
@@ -83,7 +85,7 @@ def run_scraper(script: str):
     # Signalement si le scraper s'est terminé avec une erreur
     # (code de retour non nul = erreur)
     if result.returncode != 0:
-        print(f"  ⚠️  {script} s'est terminé avec le code {result.returncode}")
+        print(f"    {script} s'est terminé avec le code {result.returncode}")
 
 
 # ─────────────────────────────────────────────────────────
@@ -100,17 +102,17 @@ def main():
     2. Appeler fusion_csv() pour fusionner tous les CSV
        → génère data/merged_offres.csv
     """
-    print("🚀 Démarrage du pipeline de scraping multi-sources\n")
+    print(" Démarrage du pipeline de scraping multi-sources\n")
 
     # ── Étape 1 : Scraping de chaque site ───────────────
     for scraper in SCRAPERS:
         run_scraper(scraper)
 
     # ── Étape 2 : Fusion de tous les CSV ────────────────
-    print("\n\n🔀 Fusion des fichiers CSV...")
+    print("\n\n Fusion des fichiers CSV...")
     df = fusion_csv()
 
-    print(f"\n✅ Pipeline terminé ! {len(df)} offres consolidées dans merged_offres.csv")
+    print(f"\n Pipeline terminé ! {len(df)} offres consolidées dans merged_offres.csv")
 
 
 # ─────────────────────────────────────────────────────────

@@ -1,0 +1,51 @@
+metier,nb_offres,pct,rang
+Commercial,951,6.4,1
+Comptable,369,2.5,2
+Chauffeur,195,1.3,3
+Community Manager,161,1.1,4
+Assistant Administratif,160,1.1,5
+Enseignant,112,0.8,6
+Chef de Projet,111,0.7,7
+Assistant de Direction,96,0.6,8
+Responsable Commercial,94,0.6,9
+Graphiste / Designer,79,0.5,10
+Responsable Administratif & Financier,65,0.4,11
+Développeur Full Stack,64,0.4,12
+Développeur Web/Logiciel,56,0.4,13
+Formateur,50,0.3,14
+Responsable RH,48,0.3,15
+Contrôleur de Gestion,46,0.3,16
+Directeur Administratif & Financier,43,0.3,17
+Assistant RH,42,0.3,18
+Infirmier,42,0.3,19
+Responsable Marketing,40,0.3,20
+Directeur Général,34,0.2,21
+Chef Comptable,30,0.2,22
+Agent de Sécurité,30,0.2,23
+Auditeur Interne,30,0.2,24
+Ingénieur Informatique,30,0.2,25
+Directeur Commercial,30,0.2,26
+Chargé Marketing/Communication,29,0.2,27
+Responsable Logistique,28,0.2,28
+Chargé RH / Recrutement,22,0.1,29
+Journaliste,21,0.1,30
+Data Analyst,21,0.1,31
+Ingénieur Électrique,21,0.1,32
+Magasinier,21,0.1,33
+Auditeur,20,0.1,34
+Administrateur Sys/Réseau,20,0.1,35
+Agent Logistique,20,0.1,36
+Data Scientist,19,0.1,37
+Architecte,17,0.1,38
+Développeur Frontend,16,0.1,39
+Chef de Service,15,0.1,40
+Développeur Backend,14,0.1,41
+Sage-Femme,13,0.1,42
+Technicien Informatique,13,0.1,43
+Attaché Commercial,13,0.1,44
+Superviseur Commercial,12,0.1,45
+Conducteur de Travaux,12,0.1,46
+Chef de Département/Service,11,0.1,47
+Office Manager,11,0.1,48
+Concierge,10,0.1,49
+Pharmacien,10,0.1,50

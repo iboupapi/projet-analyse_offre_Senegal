@@ -249,7 +249,7 @@ def scrape_all(nb_pages: int = 15) -> pd.DataFrame:
 
     # Suppression des doublons : une même offre peut apparaître sur
     # plusieurs pages si de nouvelles sont publiées pendant le scraping
-    df = df.drop_duplicates(subset=["titre", "entreprise"]).reset_index(drop=True)
+    # df = df.drop_duplicates(subset=["titre", "entreprise"]).reset_index(drop=True)
 
     return df
 

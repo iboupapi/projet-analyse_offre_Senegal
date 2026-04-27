@@ -1,0 +1,495 @@
+secteur,competence,nb_offres,pct_secteur
+Administration / Gestion,Communication,763,28.9
+Administration / Gestion,Anglais,538,20.4
+Administration / Gestion,Finance,395,15.0
+Administration / Gestion,Français,389,14.7
+Administration / Gestion,Suite Office,388,14.7
+Administration / Gestion,Leadership,375,14.2
+Administration / Gestion,Excel avance,253,9.6
+Administration / Gestion,Gestion projet,179,6.8
+Administration / Gestion,Word,175,6.6
+Administration / Gestion,Comptabilite,160,6.1
+Administration / Gestion,Travail equipe,147,5.6
+Administration / Gestion,PowerPoint,112,4.2
+Administration / Gestion,Audit,100,3.8
+Administration / Gestion,Negociation,100,3.8
+Administration / Gestion,Community management,70,2.7
+Administration / Gestion,Wolof,65,2.5
+Administration / Gestion,Tableau,45,1.7
+Administration / Gestion,R stats,38,1.4
+Administration / Gestion,Odoo,33,1.2
+Administration / Gestion,Marketing digital,24,0.9
+Administration / Gestion,SAP,21,0.8
+Administration / Gestion,HTML CSS,17,0.6
+Administration / Gestion,Sage,15,0.6
+Administration / Gestion,MS Project,13,0.5
+Administration / Gestion,Jira,13,0.5
+Administration / Gestion,PHP,10,0.4
+Administration / Gestion,SQL,9,0.3
+Administration / Gestion,Power BI,9,0.3
+Administration / Gestion,Salesforce,9,0.3
+Administration / Gestion,Photoshop,9,0.3
+Administration / Gestion,Python,8,0.3
+Administration / Gestion,Oracle DB,8,0.3
+Administration / Gestion,Java,7,0.3
+Administration / Gestion,Linux,7,0.3
+Administration / Gestion,Machine Learning,6,0.2
+Administration / Gestion,OHADA,6,0.2
+Administration / Gestion,Arabe,6,0.2
+Administration / Gestion,Espagnol,6,0.2
+Administration / Gestion,IFRS,5,0.2
+Administration / Gestion,SYSCOHADA,5,0.2
+Administration / Gestion,Permis conduire,5,0.2
+Administration / Gestion,WordPress,4,0.2
+Administration / Gestion,Data Science,4,0.2
+Administration / Gestion,React,3,0.1
+Administration / Gestion,SPSS,3,0.1
+Administration / Gestion,Git,3,0.1
+Administration / Gestion,JavaScript,2,0.1
+Administration / Gestion,VBA,2,0.1
+Administration / Gestion,AWS,2,0.1
+Administration / Gestion,Dart Flutter,1,0.0
+Administration / Gestion,Angular,1,0.0
+Administration / Gestion,Django,1,0.0
+Administration / Gestion,MySQL,1,0.0
+Administration / Gestion,PostgreSQL,1,0.0
+Administration / Gestion,Google Sheets,1,0.0
+Agriculture / Environnement,Communication,16,20.5
+Agriculture / Environnement,Anglais,15,19.2
+Agriculture / Environnement,Français,8,10.3
+Agriculture / Environnement,Leadership,8,10.3
+Agriculture / Environnement,Gestion projet,6,7.7
+Agriculture / Environnement,Excel avance,5,6.4
+Agriculture / Environnement,Suite Office,5,6.4
+Agriculture / Environnement,Word,5,6.4
+Agriculture / Environnement,Wolof,4,5.1
+Agriculture / Environnement,Negociation,3,3.8
+Agriculture / Environnement,R stats,2,2.6
+Agriculture / Environnement,Finance,2,2.6
+Agriculture / Environnement,Travail equipe,2,2.6
+Agriculture / Environnement,PHP,1,1.3
+Agriculture / Environnement,HTML CSS,1,1.3
+Agriculture / Environnement,PowerPoint,1,1.3
+Agriculture / Environnement,Google Sheets,1,1.3
+Agriculture / Environnement,Espagnol,1,1.3
+Agriculture / Environnement,MS Project,1,1.3
+Banque / Assurance,Communication,26,32.9
+Banque / Assurance,Finance,20,25.3
+Banque / Assurance,Travail equipe,14,17.7
+Banque / Assurance,Audit,13,16.5
+Banque / Assurance,Comptabilite,12,15.2
+Banque / Assurance,Leadership,11,13.9
+Banque / Assurance,Anglais,10,12.7
+Banque / Assurance,Suite Office,9,11.4
+Banque / Assurance,Français,5,6.3
+Banque / Assurance,Gestion projet,4,5.1
+Banque / Assurance,Negociation,4,5.1
+Banque / Assurance,Excel avance,3,3.8
+Banque / Assurance,PowerPoint,3,3.8
+Banque / Assurance,JavaScript,2,2.5
+Banque / Assurance,PHP,2,2.5
+Banque / Assurance,R stats,2,2.5
+Banque / Assurance,Angular,2,2.5
+Banque / Assurance,HTML CSS,2,2.5
+Banque / Assurance,SQL,2,2.5
+Banque / Assurance,PostgreSQL,2,2.5
+Banque / Assurance,Wolof,2,2.5
+Banque / Assurance,Python,1,1.3
+Banque / Assurance,Java,1,1.3
+Banque / Assurance,React,1,1.3
+Banque / Assurance,WordPress,1,1.3
+Banque / Assurance,MySQL,1,1.3
+Banque / Assurance,MongoDB,1,1.3
+Banque / Assurance,Oracle DB,1,1.3
+Banque / Assurance,Tableau,1,1.3
+Banque / Assurance,Word,1,1.3
+Banque / Assurance,Git,1,1.3
+Banque / Assurance,Jira,1,1.3
+Commercial / Vente,Communication,624,35.4
+Commercial / Vente,Negociation,473,26.8
+Commercial / Vente,Français,360,20.4
+Commercial / Vente,Anglais,275,15.6
+Commercial / Vente,Travail equipe,166,9.4
+Commercial / Vente,Excel avance,148,8.4
+Commercial / Vente,Community management,128,7.3
+Commercial / Vente,Suite Office,107,6.1
+Commercial / Vente,Word,107,6.1
+Commercial / Vente,Wolof,90,5.1
+Commercial / Vente,Leadership,80,4.5
+Commercial / Vente,Marketing digital,60,3.4
+Commercial / Vente,PowerPoint,53,3.0
+Commercial / Vente,Finance,41,2.3
+Commercial / Vente,Comptabilite,29,1.6
+Commercial / Vente,Gestion projet,28,1.6
+Commercial / Vente,Permis conduire,26,1.5
+Commercial / Vente,Odoo,22,1.2
+Commercial / Vente,Tableau,15,0.9
+Commercial / Vente,R stats,13,0.7
+Commercial / Vente,Audit,10,0.6
+Commercial / Vente,HTML CSS,8,0.5
+Commercial / Vente,Espagnol,7,0.4
+Commercial / Vente,Photoshop,6,0.3
+Commercial / Vente,Google Sheets,5,0.3
+Commercial / Vente,MS Project,5,0.3
+Commercial / Vente,Sage,4,0.2
+Commercial / Vente,Salesforce,3,0.2
+Commercial / Vente,Power BI,2,0.1
+Commercial / Vente,Arabe,2,0.1
+Commercial / Vente,Java,1,0.1
+Commercial / Vente,PHP,1,0.1
+Commercial / Vente,Angular,1,0.1
+Commercial / Vente,SQL,1,0.1
+Commercial / Vente,Machine Learning,1,0.1
+Commercial / Vente,SAP,1,0.1
+Commercial / Vente,Git,1,0.1
+Commercial / Vente,Linux,1,0.1
+Droit / Juridique,Anglais,18,18.4
+Droit / Juridique,Communication,18,18.4
+Droit / Juridique,Travail equipe,15,15.3
+Droit / Juridique,Français,14,14.3
+Droit / Juridique,Suite Office,12,12.2
+Droit / Juridique,OHADA,12,12.2
+Droit / Juridique,Excel avance,11,11.2
+Droit / Juridique,Word,11,11.2
+Droit / Juridique,Finance,11,11.2
+Droit / Juridique,Negociation,10,10.2
+Droit / Juridique,Audit,9,9.2
+Droit / Juridique,Leadership,4,4.1
+Droit / Juridique,HTML CSS,2,2.0
+Droit / Juridique,Tableau,2,2.0
+Droit / Juridique,SYSCOHADA,2,2.0
+Droit / Juridique,R stats,1,1.0
+Droit / Juridique,PowerPoint,1,1.0
+Droit / Juridique,Comptabilite,1,1.0
+Droit / Juridique,Wolof,1,1.0
+Droit / Juridique,Community management,1,1.0
+Droit / Juridique,Permis conduire,1,1.0
+Finance / Comptabilité,Finance,636,57.5
+Finance / Comptabilité,Comptabilite,555,50.1
+Finance / Comptabilité,Audit,262,23.7
+Finance / Comptabilité,Excel avance,204,18.4
+Finance / Comptabilité,Communication,194,17.5
+Finance / Comptabilité,Anglais,190,17.2
+Finance / Comptabilité,Suite Office,136,12.3
+Finance / Comptabilité,Français,120,10.8
+Finance / Comptabilité,Sage,111,10.0
+Finance / Comptabilité,Word,99,8.9
+Finance / Comptabilité,Travail equipe,83,7.5
+Finance / Comptabilité,Leadership,68,6.1
+Finance / Comptabilité,SAP,50,4.5
+Finance / Comptabilité,IFRS,46,4.2
+Finance / Comptabilité,SYSCOHADA,35,3.2
+Finance / Comptabilité,Tableau,34,3.1
+Finance / Comptabilité,PowerPoint,32,2.9
+Finance / Comptabilité,Odoo,31,2.8
+Finance / Comptabilité,OHADA,30,2.7
+Finance / Comptabilité,Negociation,26,2.3
+Finance / Comptabilité,Gestion projet,17,1.5
+Finance / Comptabilité,HTML CSS,16,1.4
+Finance / Comptabilité,R stats,14,1.3
+Finance / Comptabilité,Oracle DB,13,1.2
+Finance / Comptabilité,Power BI,9,0.8
+Finance / Comptabilité,SQL,4,0.4
+Finance / Comptabilité,Community management,4,0.4
+Finance / Comptabilité,Python,3,0.3
+Finance / Comptabilité,PHP,3,0.3
+Finance / Comptabilité,MySQL,3,0.3
+Finance / Comptabilité,Linux,3,0.3
+Finance / Comptabilité,Google Sheets,2,0.2
+Finance / Comptabilité,Wolof,2,0.2
+Finance / Comptabilité,Espagnol,2,0.2
+Finance / Comptabilité,Salesforce,1,0.1
+Finance / Comptabilité,Marketing digital,1,0.1
+Hôtellerie / Restauration,Français,28,17.1
+Hôtellerie / Restauration,Communication,24,14.6
+Hôtellerie / Restauration,Travail equipe,23,14.0
+Hôtellerie / Restauration,Anglais,22,13.4
+Hôtellerie / Restauration,Word,9,5.5
+Hôtellerie / Restauration,Suite Office,8,4.9
+Hôtellerie / Restauration,Excel avance,7,4.3
+Hôtellerie / Restauration,Tableau,1,0.6
+Hôtellerie / Restauration,Odoo,1,0.6
+Hôtellerie / Restauration,Comptabilite,1,0.6
+Hôtellerie / Restauration,Finance,1,0.6
+Hôtellerie / Restauration,Leadership,1,0.6
+Hôtellerie / Restauration,Negociation,1,0.6
+Informatique / Tech,Communication,421,24.5
+Informatique / Tech,Anglais,226,13.1
+Informatique / Tech,Suite Office,186,10.8
+Informatique / Tech,Français,186,10.8
+Informatique / Tech,Gestion projet,147,8.5
+Informatique / Tech,Leadership,144,8.4
+Informatique / Tech,JavaScript,142,8.3
+Informatique / Tech,Travail equipe,121,7.0
+Informatique / Tech,Git,113,6.6
+Informatique / Tech,Finance,106,6.2
+Informatique / Tech,Python,100,5.8
+Informatique / Tech,SQL,98,5.7
+Informatique / Tech,React,93,5.4
+Informatique / Tech,Java,86,5.0
+Informatique / Tech,HTML CSS,80,4.6
+Informatique / Tech,Angular,71,4.1
+Informatique / Tech,PHP,68,4.0
+Informatique / Tech,Negociation,65,3.8
+Informatique / Tech,Community management,63,3.7
+Informatique / Tech,MySQL,62,3.6
+Informatique / Tech,PostgreSQL,61,3.5
+Informatique / Tech,Linux,61,3.5
+Informatique / Tech,Marketing digital,60,3.5
+Informatique / Tech,Excel avance,51,3.0
+Informatique / Tech,Docker,47,2.7
+Informatique / Tech,Audit,45,2.6
+Informatique / Tech,Word,43,2.5
+Informatique / Tech,WordPress,42,2.4
+Informatique / Tech,Dart Flutter,41,2.4
+Informatique / Tech,AWS,41,2.4
+Informatique / Tech,Tableau,35,2.0
+Informatique / Tech,Power BI,34,2.0
+Informatique / Tech,R stats,32,1.9
+Informatique / Tech,Laravel,32,1.9
+Informatique / Tech,MongoDB,30,1.7
+Informatique / Tech,Data Science,29,1.7
+Informatique / Tech,PowerPoint,27,1.6
+Informatique / Tech,Comptabilite,23,1.3
+Informatique / Tech,Wolof,23,1.3
+Informatique / Tech,Django,22,1.3
+Informatique / Tech,Machine Learning,18,1.0
+Informatique / Tech,Photoshop,17,1.0
+Informatique / Tech,Oracle DB,16,0.9
+Informatique / Tech,Odoo,15,0.9
+Informatique / Tech,SAP,11,0.6
+Informatique / Tech,Jira,9,0.5
+Informatique / Tech,Permis conduire,9,0.5
+Informatique / Tech,Google Sheets,6,0.3
+Informatique / Tech,Salesforce,6,0.3
+Informatique / Tech,MS Project,6,0.3
+Informatique / Tech,VBA,5,0.3
+Informatique / Tech,Sage,4,0.2
+Informatique / Tech,Pandas NumPy,3,0.2
+Informatique / Tech,Arabe,3,0.2
+Informatique / Tech,Espagnol,3,0.2
+Informatique / Tech,C Cpp,1,0.1
+Informatique / Tech,SPSS,1,0.1
+Ingénierie / BTP,Communication,104,19.4
+Ingénierie / BTP,Anglais,92,17.1
+Ingénierie / BTP,Français,66,12.3
+Ingénierie / BTP,Gestion projet,46,8.6
+Ingénierie / BTP,Travail equipe,43,8.0
+Ingénierie / BTP,Excel avance,31,5.8
+Ingénierie / BTP,Suite Office,30,5.6
+Ingénierie / BTP,Leadership,30,5.6
+Ingénierie / BTP,Word,27,5.0
+Ingénierie / BTP,MS Project,19,3.5
+Ingénierie / BTP,PowerPoint,17,3.2
+Ingénierie / BTP,Finance,17,3.2
+Ingénierie / BTP,HTML CSS,12,2.2
+Ingénierie / BTP,Negociation,12,2.2
+Ingénierie / BTP,Java,10,1.9
+Ingénierie / BTP,Python,8,1.5
+Ingénierie / BTP,Odoo,8,1.5
+Ingénierie / BTP,Audit,8,1.5
+Ingénierie / BTP,Wolof,8,1.5
+Ingénierie / BTP,R stats,7,1.3
+Ingénierie / BTP,SQL,6,1.1
+Ingénierie / BTP,Linux,6,1.1
+Ingénierie / BTP,JavaScript,5,0.9
+Ingénierie / BTP,Angular,5,0.9
+Ingénierie / BTP,Docker,5,0.9
+Ingénierie / BTP,AWS,5,0.9
+Ingénierie / BTP,Permis conduire,5,0.9
+Ingénierie / BTP,PHP,4,0.7
+Ingénierie / BTP,MongoDB,4,0.7
+Ingénierie / BTP,SAP,4,0.7
+Ingénierie / BTP,Git,4,0.7
+Ingénierie / BTP,React,3,0.6
+Ingénierie / BTP,MySQL,3,0.6
+Ingénierie / BTP,Oracle DB,3,0.6
+Ingénierie / BTP,Tableau,3,0.6
+Ingénierie / BTP,SPSS,3,0.6
+Ingénierie / BTP,Jira,3,0.6
+Ingénierie / BTP,Power BI,2,0.4
+Ingénierie / BTP,Community management,2,0.4
+Ingénierie / BTP,Photoshop,2,0.4
+Ingénierie / BTP,WordPress,1,0.2
+Ingénierie / BTP,PostgreSQL,1,0.2
+Ingénierie / BTP,Machine Learning,1,0.2
+Ingénierie / BTP,Data Science,1,0.2
+Ingénierie / BTP,Salesforce,1,0.2
+Ingénierie / BTP,Comptabilite,1,0.2
+Ingénierie / BTP,Espagnol,1,0.2
+Logistique / Transport,Français,116,18.4
+Logistique / Transport,Communication,99,15.7
+Logistique / Transport,Anglais,79,12.5
+Logistique / Transport,Excel avance,43,6.8
+Logistique / Transport,Suite Office,33,5.2
+Logistique / Transport,Finance,32,5.1
+Logistique / Transport,Leadership,32,5.1
+Logistique / Transport,Wolof,28,4.4
+Logistique / Transport,Word,22,3.5
+Logistique / Transport,Travail equipe,21,3.3
+Logistique / Transport,Negociation,19,3.0
+Logistique / Transport,Comptabilite,13,2.1
+Logistique / Transport,Gestion projet,11,1.7
+Logistique / Transport,Tableau,10,1.6
+Logistique / Transport,Odoo,10,1.6
+Logistique / Transport,Community management,8,1.3
+Logistique / Transport,R stats,7,1.1
+Logistique / Transport,PowerPoint,5,0.8
+Logistique / Transport,Audit,5,0.8
+Logistique / Transport,Permis conduire,5,0.8
+Logistique / Transport,HTML CSS,3,0.5
+Logistique / Transport,SAP,2,0.3
+Logistique / Transport,Sage,2,0.3
+Logistique / Transport,Espagnol,2,0.3
+Logistique / Transport,PHP,1,0.2
+Marketing / Communication,Communication,597,71.7
+Marketing / Communication,Community management,333,40.0
+Marketing / Communication,Marketing digital,179,21.5
+Marketing / Communication,Anglais,135,16.2
+Marketing / Communication,Français,132,15.8
+Marketing / Communication,Photoshop,125,15.0
+Marketing / Communication,Suite Office,61,7.3
+Marketing / Communication,Travail equipe,50,6.0
+Marketing / Communication,Leadership,47,5.6
+Marketing / Communication,Gestion projet,39,4.7
+Marketing / Communication,Excel avance,32,3.8
+Marketing / Communication,Finance,31,3.7
+Marketing / Communication,Word,23,2.8
+Marketing / Communication,Wolof,21,2.5
+Marketing / Communication,WordPress,19,2.3
+Marketing / Communication,PowerPoint,19,2.3
+Marketing / Communication,Negociation,15,1.8
+Marketing / Communication,R stats,10,1.2
+Marketing / Communication,Audit,8,1.0
+Marketing / Communication,HTML CSS,7,0.8
+Marketing / Communication,Comptabilite,6,0.7
+Marketing / Communication,Google Sheets,5,0.6
+Marketing / Communication,JavaScript,4,0.5
+Marketing / Communication,SQL,4,0.5
+Marketing / Communication,Salesforce,4,0.5
+Marketing / Communication,Tableau,3,0.4
+Marketing / Communication,PHP,2,0.2
+Marketing / Communication,React,2,0.2
+Marketing / Communication,Odoo,2,0.2
+Marketing / Communication,Jira,2,0.2
+Marketing / Communication,Java,1,0.1
+Marketing / Communication,Power BI,1,0.1
+Marketing / Communication,Machine Learning,1,0.1
+Marketing / Communication,Git,1,0.1
+Marketing / Communication,Linux,1,0.1
+ONG / Humanitaire,Communication,15,24.6
+ONG / Humanitaire,Finance,7,11.5
+ONG / Humanitaire,Français,7,11.5
+ONG / Humanitaire,Anglais,6,9.8
+ONG / Humanitaire,Gestion projet,6,9.8
+ONG / Humanitaire,Leadership,5,8.2
+ONG / Humanitaire,Suite Office,4,6.6
+ONG / Humanitaire,Wolof,3,4.9
+ONG / Humanitaire,R stats,2,3.3
+ONG / Humanitaire,Community management,2,3.3
+ONG / Humanitaire,React,1,1.6
+ONG / Humanitaire,Excel avance,1,1.6
+ONG / Humanitaire,Odoo,1,1.6
+ONG / Humanitaire,Sage,1,1.6
+ONG / Humanitaire,Audit,1,1.6
+ONG / Humanitaire,Marketing digital,1,1.6
+ONG / Humanitaire,Travail equipe,1,1.6
+Ressources Humaines,Communication,214,28.2
+Ressources Humaines,Anglais,132,17.4
+Ressources Humaines,Français,85,11.2
+Ressources Humaines,Leadership,81,10.7
+Ressources Humaines,Suite Office,78,10.3
+Ressources Humaines,Excel avance,56,7.4
+Ressources Humaines,Word,46,6.1
+Ressources Humaines,Travail equipe,46,6.1
+Ressources Humaines,Finance,39,5.1
+Ressources Humaines,Negociation,38,5.0
+Ressources Humaines,HTML CSS,32,4.2
+Ressources Humaines,Gestion projet,31,4.1
+Ressources Humaines,PowerPoint,28,3.7
+Ressources Humaines,Community management,28,3.7
+Ressources Humaines,Sage,26,3.4
+Ressources Humaines,Comptabilite,22,2.9
+Ressources Humaines,Audit,18,2.4
+Ressources Humaines,Marketing digital,12,1.6
+Ressources Humaines,Odoo,10,1.3
+Ressources Humaines,Tableau,8,1.1
+Ressources Humaines,R stats,7,0.9
+Ressources Humaines,Wolof,7,0.9
+Ressources Humaines,SAP,6,0.8
+Ressources Humaines,Permis conduire,5,0.7
+Ressources Humaines,PHP,4,0.5
+Ressources Humaines,Photoshop,4,0.5
+Ressources Humaines,Arabe,3,0.4
+Ressources Humaines,VBA,1,0.1
+Ressources Humaines,Laravel,1,0.1
+Ressources Humaines,WordPress,1,0.1
+Ressources Humaines,SQL,1,0.1
+Ressources Humaines,Power BI,1,0.1
+Ressources Humaines,Google Sheets,1,0.1
+Ressources Humaines,Salesforce,1,0.1
+Ressources Humaines,Docker,1,0.1
+Ressources Humaines,Linux,1,0.1
+Ressources Humaines,OHADA,1,0.1
+Ressources Humaines,Espagnol,1,0.1
+Santé / Médical,Communication,44,21.5
+Santé / Médical,Anglais,18,8.8
+Santé / Médical,Sage,17,8.3
+Santé / Médical,Leadership,17,8.3
+Santé / Médical,Français,16,7.8
+Santé / Médical,Suite Office,13,6.3
+Santé / Médical,Word,11,5.4
+Santé / Médical,Excel avance,10,4.9
+Santé / Médical,Travail equipe,5,2.4
+Santé / Médical,R stats,4,2.0
+Santé / Médical,PowerPoint,4,2.0
+Santé / Médical,Finance,4,2.0
+Santé / Médical,Wolof,4,2.0
+Santé / Médical,Gestion projet,4,2.0
+Santé / Médical,VBA,3,1.5
+Santé / Médical,Negociation,3,1.5
+Santé / Médical,Audit,2,1.0
+Santé / Médical,Python,1,0.5
+Santé / Médical,Java,1,0.5
+Santé / Médical,JavaScript,1,0.5
+Santé / Médical,PHP,1,0.5
+Santé / Médical,Django,1,0.5
+Santé / Médical,HTML CSS,1,0.5
+Santé / Médical,SPSS,1,0.5
+Santé / Médical,Odoo,1,0.5
+Santé / Médical,Docker,1,0.5
+Santé / Médical,AWS,1,0.5
+Santé / Médical,Community management,1,0.5
+Éducation / Formation,Français,82,25.4
+Éducation / Formation,Anglais,75,23.2
+Éducation / Formation,Communication,64,19.8
+Éducation / Formation,Travail equipe,13,4.0
+Éducation / Formation,Comptabilite,12,3.7
+Éducation / Formation,Leadership,10,3.1
+Éducation / Formation,Arabe,8,2.5
+Éducation / Formation,Excel avance,6,1.9
+Éducation / Formation,Suite Office,6,1.9
+Éducation / Formation,Word,6,1.9
+Éducation / Formation,Gestion projet,6,1.9
+Éducation / Formation,HTML CSS,4,1.2
+Éducation / Formation,PowerPoint,4,1.2
+Éducation / Formation,Espagnol,4,1.2
+Éducation / Formation,Python,3,0.9
+Éducation / Formation,Machine Learning,3,0.9
+Éducation / Formation,Data Science,3,0.9
+Éducation / Formation,Audit,3,0.9
+Éducation / Formation,Wolof,3,0.9
+Éducation / Formation,Community management,3,0.9
+Éducation / Formation,R stats,2,0.6
+Éducation / Formation,WordPress,2,0.6
+Éducation / Formation,Tableau,2,0.6
+Éducation / Formation,SPSS,2,0.6
+Éducation / Formation,Finance,2,0.6
+Éducation / Formation,Negociation,2,0.6
+Éducation / Formation,JavaScript,1,0.3
+Éducation / Formation,PHP,1,0.3
+Éducation / Formation,Angular,1,0.3
+Éducation / Formation,SQL,1,0.3
+Éducation / Formation,PostgreSQL,1,0.3
+Éducation / Formation,Power BI,1,0.3
+Éducation / Formation,Marketing digital,1,0.3

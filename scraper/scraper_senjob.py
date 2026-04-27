@@ -144,7 +144,7 @@ def scrape_senjob(nb_pages: int = 8) -> pd.DataFrame:
     df = pd.DataFrame(toutes_offres) if toutes_offres else pd.DataFrame(
         columns=["titre", "entreprise", "ville", "contrat", "date", "date_expiration", "lien", "source"]
     )
-    df = df.drop_duplicates(subset=["titre"]).reset_index(drop=True)
+    # df = df.drop_duplicates(subset=["titre"]).reset_index(drop=True)
 
     print(f"\n   {len(df)} offres uniques — senjob.com")
     return df

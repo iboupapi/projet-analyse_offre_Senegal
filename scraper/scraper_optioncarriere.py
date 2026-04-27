@@ -146,7 +146,7 @@ def scrape_optioncarriere(nb_pages: int = 20) -> pd.DataFrame:
     df = pd.DataFrame(toutes_offres) if toutes_offres else pd.DataFrame(
         columns=["titre", "entreprise", "ville", "contrat", "date", "lien", "source"]
     )
-    df = df.drop_duplicates(subset=["titre", "entreprise"]).reset_index(drop=True)
+    # df = df.drop_duplicates(subset=["titre", "entreprise"]).reset_index(drop=True)
 
     print(f"\n   {len(df)} offres uniques — optioncarriere.sn")
     return df

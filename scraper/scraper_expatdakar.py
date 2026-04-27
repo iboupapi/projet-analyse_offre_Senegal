@@ -146,7 +146,7 @@ def scrape_expatdakar(nb_pages: int = 10) -> pd.DataFrame:
     df = pd.DataFrame(toutes_offres) if toutes_offres else pd.DataFrame(
         columns=["titre", "entreprise", "ville", "contrat", "date", "lien", "source"]
     )
-    df = df.drop_duplicates(subset=["titre", "ville"]).reset_index(drop=True)
+    # df = df.drop_duplicates(subset=["titre", "ville"]).reset_index(drop=True)
 
     print(f"\n   {len(df)} offres uniques — expat-dakar.com")
     return df

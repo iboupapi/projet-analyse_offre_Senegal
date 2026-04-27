@@ -1,0 +1,29 @@
+secteur,contrat,nb_offres
+Administration / Gestion,CDD,27
+Administration / Gestion,CDI,14
+Agriculture / Environnement,CDD,1
+Commercial / Vente,CDD,7
+Commercial / Vente,CDI,5
+Commercial / Vente,Freelance / Prestation,4
+Commercial / Vente,Stage,4
+Finance / Comptabilité,CDD,8
+Finance / Comptabilité,CDI,7
+Finance / Comptabilité,Stage,3
+Finance / Comptabilité,Freelance / Prestation,1
+Informatique / Tech,CDI,9
+Informatique / Tech,CDD,8
+Informatique / Tech,Stage,3
+Informatique / Tech,Freelance / Prestation,2
+Ingénierie / BTP,CDD,6
+Ingénierie / BTP,CDI,4
+Logistique / Transport,Freelance / Prestation,5
+Logistique / Transport,CDD,3
+Logistique / Transport,CDI,1
+Logistique / Transport,Stage,1
+Marketing / Communication,CDI,3
+Marketing / Communication,Freelance / Prestation,3
+Marketing / Communication,Stage,2
+Marketing / Communication,CDD,1
+Ressources Humaines,CDD,5
+Santé / Médical,CDD,2
+Éducation / Formation,CDD,3

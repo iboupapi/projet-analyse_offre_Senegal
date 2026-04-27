@@ -112,11 +112,11 @@ def fusion_csv(output_filename: str = "merged_offres.csv") -> pd.DataFrame:
     # titre, entreprise, source
     # (on ne dédoublonne pas cross-source pour conserver
     # l'information de multi-publication)
-    cols_dedup = [c for c in ["titre", "entreprise", "source"] if c in merged.columns]
-    if cols_dedup:
-        avant = len(merged)
-        merged = merged.drop_duplicates(subset=cols_dedup)
-        print(f"\n   Doublons supprimés : {avant - len(merged)}")
+    # cols_dedup = [c for c in ["titre", "entreprise", "source"] if c in merged.columns]
+    # if cols_dedup:
+    #     avant = len(merged)
+    #     merged = merged.drop_duplicates(subset=cols_dedup)
+    #     print(f"\n   Doublons supprimés : {avant - len(merged)}")
 
     # ── Sauvegarde ────────────────────────────────────────
     output_path = os.path.join(DATA_DIR, output_filename)
