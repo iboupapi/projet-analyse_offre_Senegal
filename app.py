@@ -161,7 +161,6 @@ PLOTLY_LAYOUT = dict(
     paper_bgcolor=COLORS["panel"],
     plot_bgcolor=COLORS["panel"],
     font=dict(color=COLORS["text"], family="system-ui"),
-    margin=dict(l=10, r=10, t=40, b=10),
     xaxis=dict(
         gridcolor=COLORS["border"],
         linecolor=COLORS["border"],
@@ -361,7 +360,7 @@ with col_right:
             textfont=dict(size=11),
         )])
         fig_donut.update_layout(
-            **PLOTLY_LAYOUT,
+            **{k: v for k, v in PLOTLY_LAYOUT.items() if k not in ["margin", "xaxis", "yaxis"]},
             height=320,
             showlegend=True,
             legend=dict(
@@ -460,7 +459,7 @@ with col_c:
             color_discrete_sequence=SECTEUR_COLORS,
         )
         fig_cont.update_layout(
-            **PLOTLY_LAYOUT,
+            **{k: v for k, v in PLOTLY_LAYOUT.items() if k not in ["margin", "xaxis", "yaxis"]},
             height=250,
             showlegend=True,
             legend=dict(font=dict(size=10, color=COLORS["subtext"]),
