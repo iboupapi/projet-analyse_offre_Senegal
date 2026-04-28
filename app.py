@@ -184,25 +184,25 @@ with st.sidebar:
     secteurs_list = ["Tous les secteurs"]
     if not data["secteurs"].empty:
         secteurs_list += sorted(data["secteurs"]["secteur"].dropna().unique().tolist())
-    secteur_sel = st.selectbox("📂 Secteur", secteurs_list)
+    secteur_sel = st.selectbox(" Secteur", secteurs_list)
 
     # Filtre Contrat
     contrats_list = ["Tous contrats"]
     if not data["contrats"].empty:
         contrats_list += sorted(data["contrats"]["contrat"].dropna().unique().tolist())
-    contrat_sel = st.selectbox("📋 Type de contrat", contrats_list)
+    contrat_sel = st.selectbox(" Type de contrat", contrats_list)
 
     # Filtre Entreprise
     entreprises_list = ["Toutes les entreprises"]
     if not data["entreprises"].empty:
         entreprises_list += sorted(data["entreprises"]["entreprise"].dropna().unique().tolist())
-    entreprise_sel = st.selectbox("🏢 Entreprise", entreprises_list)
+    entreprise_sel = st.selectbox(" Entreprise", entreprises_list)
 
     # Filtre Métier
     metiers_list = ["Tous les métiers"]
     if not data["metiers"].empty:
         metiers_list += sorted(data["metiers"]["metier"].dropna().unique().tolist())
-    metier_sel = st.selectbox("💼 Métier", metiers_list)
+    metier_sel = st.selectbox(" Métier", metiers_list)
 
     st.markdown("---")
     st.markdown(
